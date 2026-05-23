@@ -6,7 +6,18 @@
 **Real-time · AI-powered · Autonomous pressure relief for immobile patients**
  
 <br/>
+<<<<<<< HEAD
 
+=======
+[![ESP8266](https://img.shields.io/badge/ESP8266-NodeMCU-blue?style=flat-square&logo=arduino)](https://www.arduino.cc/)
+[![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/lite)
+[![Firebase](https://img.shields.io/badge/Firebase-Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Blynk](https://img.shields.io/badge/Blynk-IoT_App-00E5FF?style=flat-square)](https://blynk.io/)
+[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+ 
+<br/>
+>>>>>>> 5cd37dee896bda6fb84e9fd151dd337b62ddc980
 > *Bed sores affect **2.5 million** patients per year and cost **$11 billion** annually in the US alone.  
 > AI Careon prevents them — automatically, intelligently, and affordably.*
  
@@ -538,4 +549,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 <br/>
 *If this project helped you, please ⭐ star the repository*
  
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> 5cd37dee896bda6fb84e9fd151dd337b62ddc980
